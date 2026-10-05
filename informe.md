@@ -1,7 +1,7 @@
 # Informe — Fundamentos de Big Data aplicados al proyecto
 
-**Autor:** Jeshua Vera Flores — IDIA 224
-**Universidad Politécnica de Querétaro**
+**Autores:** Jeshua Vera Flores · Betel Zurisadai Hernández Sánchez
+**IDIA 224 — Universidad Politécnica de Querétaro**
 
 ---
 

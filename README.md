@@ -105,6 +105,9 @@ examen-sensores/
 
 ---
 
-## 👤 Autor
+## 👥 Equipo
 
-**Jeshua Vera Flores** — IDIA 224, Universidad Politécnica de Querétaro
+- **Jeshua Vera Flores** — IDIA 224
+- **Betel Zurisadai Hernández Sánchez** — IDIA 224
+
+Universidad Politécnica de Querétaro
